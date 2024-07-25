@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to C-HTTP-Server 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/Version-0.2-blue.svg?cacheSeconds=2592000" />
 </p>
 
 >  A basic HTTP server that handles incoming client connections, and serves either a default response or specific files based on the client's request.
