@@ -7,7 +7,7 @@
 
 ## Updates
 ```sh
-0.2/ Added multi-threading to handel multiple connections and the ability to find any file that exists, not only the one in the code.
+0.2/ Added multi-threading to handle multiple connections and the ability to find any file that exists, not only the one specified in the code.
 
 
 ```
