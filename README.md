@@ -3,8 +3,14 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> 0.1/ A basic HTTP server that handles incoming client connections, and serves either a default response or specific files based on the client's request.
-> 0.2/ Added multi-threading to handel multiple connections and the ability to find any file that exists, not only the one in the code.
+>  A basic HTTP server that handles incoming client connections, and serves either a default response or specific files based on the client's request.
+
+## Updates
+```sh
+0.1/ Added multi-threading to handel multiple connections and the ability to find any file that exists, not only the one in the code.
+
+
+```
 
 ## Usage
 
